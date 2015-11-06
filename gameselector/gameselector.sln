@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gameselector", "gameselector\gameselector.vcxproj", "{25D72C9E-2853-4813-85F0-A5422F69E46D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D72C9E-2853-4813-85F0-A5422F69E46D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25D72C9E-2853-4813-85F0-A5422F69E46D}.Debug|Win32.Build.0 = Debug|Win32
+		{25D72C9E-2853-4813-85F0-A5422F69E46D}.Release|Win32.ActiveCfg = Release|Win32
+		{25D72C9E-2853-4813-85F0-A5422F69E46D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
